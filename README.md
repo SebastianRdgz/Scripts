@@ -1,2 +1,2 @@
-# Python Scripts
+# Scripts
  Collection of Python Scripts for Automation.
